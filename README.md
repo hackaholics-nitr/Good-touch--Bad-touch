@@ -50,7 +50,6 @@ To indicate the different types of touch as different colours.
 
 We even have designed a web page describing more about good touch and bad touch. The website is built with the help of HTML, CSS, Bootstrap and JavaScript. We ensured that website is absolutely easy to use for children.
 
-
 ## Challenges we ran into
 It took a bit longer to build the hardware model. So, there was quite short time to design our website.
 
