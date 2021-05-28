@@ -1,4 +1,4 @@
-<h2>To be continued</h2>
+<h2> To be continued </h2>
 <h1 align="center">|| Selected for the grand finale of Toycathon 2021 ||<h1>
 <h1 align="center">
   <br>
